@@ -10,10 +10,9 @@
 - iGPU : Intel HD Graphics 4400 Only
 - Optical Drive : Replace with HDD Caddy
 
+```
 sudo mount -uw /
-
 enter
-
 sudo killAll Finder
-
 enter
+```
