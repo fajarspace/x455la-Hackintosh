@@ -11,6 +11,9 @@
 - Optical Drive : Replace with HDD Caddy
 
 sudo mount -uw /
+
 enter
+
 sudo killAll Finder
+
 enter
